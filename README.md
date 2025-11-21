@@ -1,5 +1,5 @@
 # CE4145-Natural-Language-Processing-Coursework
-## Author: Wilson Sutherland
+## Author: Wilson Sutherland (2227555)
 
 ### Dataset Information
 The dataset used was the [Game Reviews Sentiment](https://huggingface.co/datasets/auphong2707/game-reviews-sentiment) dataset. This was first accessed on 25th October, 2025.
