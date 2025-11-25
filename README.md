@@ -1,4 +1,4 @@
-# CE4145-Natural-Language-Processing-Coursework
+# CE4145 Natural Language Processing Coursework
 ## Author: Wilson Sutherland (2227555)
 
 ### Dataset Information
